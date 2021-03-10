@@ -23,6 +23,6 @@ I'm from Bangladesh.
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
 ## Github Stats
-![Nur's github stats](https://github-readme-stats.vercel.app/api?username=mdnurr&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
+![Nur's github stats](https://github-readme-stats.vercel.app/api?username=mdnoorr&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
 </div>
 
