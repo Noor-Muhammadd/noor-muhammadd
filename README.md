@@ -23,13 +23,6 @@ I'm from Bangladesh.
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
 
 ## Github Stats
-![Kaushik's github stats](https://github-readme-stats.vercel.app/api?username=kk77777&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
+![Nur's github stats](https://github-readme-stats.vercel.app/api?username=noor-muhammadd&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
 </div>
-
-## Reach Me Through :
-<p align="center"><a href='mailto:kaushikgattani@gmail.com' target='_blank'><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a>
-<a target='_blank' href='https://discordapp.com/users/kaushik#9295'><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
-<a target='_blank' href='https://www.linkedin.com/in/kaushik-kumar-gattani-7831b3195/'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target='_blank' href='https://twitter.com/GattaniKaushik'><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a target='_blank' href='https://medium.com/@kaushikgattani'><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png" width='45' height='45'/></a></p>
 
