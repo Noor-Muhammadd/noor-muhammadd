@@ -1,28 +1,34 @@
-<h1 align="center">Hi!, I'm Nur Muhammad </h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Nur Muhammad</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
-## About Me
 
-I'm from Bangladesh.
-<br/>
+- ### 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
 
-## My Interests
+- ### 📝 I regularly write articles on [https://dev.to/noormuhammadd](https://dev.to/noormuhammadd)
 
-- Coding
-- Watching movies
-- Traveling
-- And Sleeping
+- ### 💬 Ask me about **Javacript, React.js**
 
-## Skillset
-<p align="center"><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html' width='40' height='40'> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='nodejs' width='40' height='40'> 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='reactjs' width='40' height='40'> 
-<img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg' alt='mongo' width='40' height='40'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40' height='40'></p>
+- ### 📫 How to reach me **nurmuhammadd2003@gmail.com**
 
-## Github Stats
-![Nur's github stats](https://github-readme-stats.vercel.app/api?username=noor-muhammadd&show_icons=true&theme=merko&count_private=true&hide=stars,issues)
-</div>
+- ### ⚡ Fun fact **I love to make people laugh and keep myself happy.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="Center">
+<a href="https://twitter.com/nmuhammad321" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="nmuhammad321" height="30" width="40" /></a>
+<a href="inkedin.com/in/mdnurmuhammad" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="md-nur-muhammad" height="30" width="40" /></a>
+<a href="https://fb.com/mdnur2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdnur2003" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,py,html,css,vscode,react,firebase,tailwind,ts,mongodb,express,nodejs,figma,mysql,postgresql,git&perline=6" />
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurmuhammadcse&show_icons=true&locale=en&layout=compact" alt="nurmuhammadcse" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurmuhammadcse&show_icons=true&locale=en" alt="nurmuhammadcse" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammadcse&" alt="nurmuhammadcse" /></p>
